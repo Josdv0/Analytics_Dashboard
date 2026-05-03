@@ -1,0 +1,32 @@
+2026-05-03 10:55:20,953 - __main__ - INFO - ======================================================================
+2026-05-03 10:55:20,954 - __main__ - INFO - Analytics Pipeline Started
+2026-05-03 10:55:20,954 - __main__ - INFO - ======================================================================
+2026-05-03 10:55:21,036 - __main__ - INFO - Data loaded successfully from 'osb_tnatalidad.csv'. Shape: 73722 rows × 6 columns
+2026-05-03 10:55:21,036 - __main__ - INFO - Starting data analysis...
+2026-05-03 10:55:21,072 - __main__ - INFO - Data analysis completed successfully.
+2026-05-03 10:55:21,073 - __main__ - INFO - Creating histogram for 2 numerical columns...
+2026-05-03 10:55:22,065 - __main__ - INFO - Visualization saved to: analytics_report.png
+2026-05-03 10:55:22,065 - __main__ - INFO - ======================================================================
+2026-05-03 10:55:22,066 - __main__ - INFO - Analytics Pipeline Completed Successfully
+2026-05-03 10:55:22,066 - __main__ - INFO - ======================================================================
+2026-05-03 10:56:29,133 - __main__ - INFO - ======================================================================
+2026-05-03 10:56:29,133 - __main__ - INFO - Analytics Dashboard Application Started
+2026-05-03 10:56:29,134 - __main__ - INFO - ======================================================================
+2026-05-03 10:56:32,981 - __main__ - INFO - Analytics Dashboard initialized
+2026-05-03 10:56:38,661 - __main__ - INFO - Data loaded successfully from 'C:/Users/Josep/OneDrive/Documents/PythonProjects/osb_tnatalidad.csv'. Shape: 73722 rows × 6 columns
+2026-05-03 10:56:39,222 - __main__ - INFO - File loaded successfully: C:/Users/Josep/OneDrive/Documents/PythonProjects/osb_tnatalidad.csv
+2026-05-03 11:02:51,928 - __main__ - INFO - Data loaded from uploaded file. Shape: 73722 rows × 6 columns
+2026-05-03 11:02:53,507 - __main__ - INFO - Dashboard rendered successfully
+2026-05-03 11:03:29,260 - __main__ - INFO - Data loaded successfully from 'osb_tnatalidad.csv'. Shape: 73722 rows × 6 columns
+2026-05-03 11:03:30,331 - __main__ - INFO - Dashboard rendered successfully
+2026-05-03 11:06:54,403 - __main__ - INFO - Data loaded from uploaded file. Shape: 73722 rows × 6 columns
+2026-05-03 11:06:56,030 - __main__ - INFO - Dashboard rendered successfully
+2026-05-03 11:07:03,337 - __main__ - INFO - Data loaded from uploaded file. Shape: 73722 rows × 1 columns
+2026-05-03 11:07:03,464 - __main__ - INFO - Dashboard rendered successfully
+2026-05-03 11:07:06,779 - __main__ - INFO - Dashboard rendered successfully
+2026-05-03 11:07:11,366 - __main__ - INFO - Dashboard rendered successfully
+2026-05-03 11:07:12,889 - __main__ - INFO - Dashboard rendered successfully
+2026-05-03 11:07:15,566 - __main__ - INFO - Dashboard rendered successfully
+2026-05-03 11:07:18,161 - __main__ - INFO - Dashboard rendered successfully
+2026-05-03 11:13:35,225 - __main__ - INFO - Data loaded from uploaded file. Shape: 73722 rows × 6 columns
+2026-05-03 11:13:36,689 - __main__ - INFO - Dashboard rendered successfully
